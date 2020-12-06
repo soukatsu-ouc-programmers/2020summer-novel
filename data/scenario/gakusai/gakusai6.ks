@@ -69,7 +69,7 @@
 [elsif exp="f.inumiya_flag > 3"]
 @jump storage="inumiya/gakusai.ks" target=*start
 
-[elsif exp="f.tsuguno_flag > 1"]
+[elsif exp="f.tsuguno_flag > 2"]
 @jump storage="tsuguno/gakusai.ks" target=*start
 
 [else]

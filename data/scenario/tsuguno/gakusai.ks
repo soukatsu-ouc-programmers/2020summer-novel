@@ -54,4 +54,4 @@
 @fadeoutbgm time=2000
 [cm]
 [mask time=2000]
-[jump storage="tsuguno/end1.ks" target=*start]
+[jump storage="gakusai/gakusai7.ks" target=*start]

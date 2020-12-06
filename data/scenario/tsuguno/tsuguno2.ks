@@ -242,11 +242,7 @@
 
 [anim name="chara_name_image" time="0" opacity="  0"]
 [image name="chara_name_image" layer="message0" zindex="100" storage="label/mob.png" left="160" top="500" width="227"]
-#急な回転に、抱き上げられているつぐねぇが
-「ぐえっ」とうなるも、そんなことかまっていられない。[p]
-
-[anim name="chara_name_image" time="0" opacity="  0"]
-#
+急な回転に、抱き上げられているつぐねぇが「ぐえっ」とうなるも、そんなことかまっていられない。[p]
 目の前には、顔の半分がなくなった人影が...[p]
 
 [anim name="chara_name_image" time="0" opacity="  0"]

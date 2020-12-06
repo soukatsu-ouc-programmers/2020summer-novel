@@ -69,6 +69,9 @@
 [elsif exp="f.inumiya_flag > 3"]
 @jump storage="inumiya/bestend.ks"
 
+[elsif exp="f.tsuguno_flag > 2"]
+@jump storage="inumiya/bestend.ks"
+
 [else]
 @jump storage="gakusai/no-route.ks" target=*start
 
