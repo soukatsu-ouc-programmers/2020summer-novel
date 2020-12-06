@@ -124,7 +124,11 @@ switch (f.date){
         }else{
             tf.inumiya_event = false;
         }
-        tf.tsuguno_event = true;
+        if(f.tsuguno_flag > 1){
+            tf.tsuguno_event = true;
+        }else{
+            tf.tsuguno_event = false;
+        }
         break;
     case 17:
         tf.shirai_event = false;
