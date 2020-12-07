@@ -1,5 +1,5 @@
 *start
-@playbgm storage="surise.ogg"
+@playbgm storage="sunrise.ogg"
 
 [cm  ]
 [clearfix]

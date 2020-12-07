@@ -61,7 +61,7 @@
 ; 表情
 [chara_face name="inumiya" face="normal" storage="chara/inumiya/normal.PNG"]
 [chara_face name="inumiya" face="cry" storage="chara/inumiya/cry.PNG"]
-[chara_face name="inumiya" face="bored" storage="chara/inumiya/bored.PNG"]
+[chara_face name="inumiya" face="bored" storage="chara/inumiya/bored.png"]
 [chara_face name="inumiya" face="smile" storage="chara/inumiya/smile.PNG"]
 [chara_face name="inumiya" face="trouble" storage="chara/inumiya/trouble.PNG"]
 
