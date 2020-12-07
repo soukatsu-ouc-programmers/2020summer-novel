@@ -208,9 +208,9 @@ switch (f.date){
             TG.kag.ftag.startTag("jump",{storage:"shirai/shirai_bad.ks",target:"*start"});
         }else if(f.inumiya_flag > 3){
             TG.kag.ftag.startTag("jump",{storage:"inumiya/inumiya16.ks",target:"*start"});
-        }else if(f.tsuguno_flag > 2 && f.intelligence > 50){
+        }else if(f.tsuguno_flag > 2 && f.intelligence > 54){
             TG.kag.ftag.startTag("jump",{storage:"tsuguno/tsuguno12.ks",target:"*start"});
-        }else if(f.tsuguno_flag > 2 && f.intelligence < 51){
+        }else if(f.tsuguno_flag > 2 && f.intelligence < 55){
             TG.kag.ftag.startTag("jump",{storage:"tsuguno/end2.ks",target:"*start"});
         }else{
             TG.kag.ftag.startTag("jump",{storage:"no-route-exam.ks",target:"*start"});

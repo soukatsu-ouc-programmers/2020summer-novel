@@ -70,7 +70,7 @@
 @jump storage="inumiya/bestend.ks"
 
 [elsif exp="f.tsuguno_flag > 2"]
-@jump storage="inumiya/bestend.ks"
+@jump storage="tsuguno/end1.ks"
 
 [else]
 @jump storage="gakusai/no-route.ks" target=*start

@@ -1,6 +1,6 @@
 *start
 @playbgm storage="n104.ogg"
-@fadeinse storage="rain.ogg" loop="true"
+@fadeinse storage="rain.ogg" loop="true" time=2000
 
 [cm  ]
 [clearfix]
